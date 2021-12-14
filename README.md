@@ -1,2 +1,8 @@
 # py-hangman
-Just some Python Testing
+### An Basic Hangman Game made with Python by TFCSARSS
+
+<br>
+
+# Contact
+
+- Discord: TFCSARSS#6661
